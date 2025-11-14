@@ -1,0 +1,639 @@
+{
+  "title": {
+    "text": {
+      "headline": "History of Machine Learning",
+      "text": "An extended, enriched timeline combining classical ML milestones, deep learning breakthroughs and modern generative AI."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1763",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1763 – Bayes' Posthumous Essay",
+        "text": "<p>Thomas Bayes' work on conditional probability is published posthumously, laying the foundations for Bayesian inference.</p><p><b>Curiosità:</b> Per molti anni il teorema di Bayes è rimasto una curiosità matematica, prima di diventare centrale per il machine learning probabilistico.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Portrait of Thomas Bayes; diagram illustrating Bayes' theorem. | Video idea: YouTube search: 'Bayes theorem explained'.",
+        "credit": ""
+      },
+      "group": "Foundations & Probability"
+    },
+    {
+      "start_date": {
+        "year": "1805",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1805 – Metodo dei minimi quadrati",
+        "text": "<p>Adrien-Marie Legendre descrive il metodo dei minimi quadrati, base matematica della regressione lineare.</p><p><b>Curiosità:</b> La regressione lineare è tuttora uno degli algoritmi più usati in ML, nonostante la sua età.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Graph of a best-fit line; original manuscript of Legendre. | Video idea: YouTube search: 'least squares regression tutorial'.",
+        "credit": ""
+      },
+      "group": "Foundations & Probability"
+    },
+    {
+      "start_date": {
+        "year": "1837",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1837 – Ada Lovelace e il concetto di programma",
+        "text": "<p>Ada Lovelace scrive note sull'Analytical Engine di Babbage, spesso considerata la prima programmatrice.</p><p><b>Curiosità:</b> Nelle sue note, Ada ipotizza che una macchina possa manipolare simboli complessi, anticipando in parte le idee di calcolo generale usate oggi per l'ML.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Portrait of Ada Lovelace; drawing of the Analytical Engine. | Video idea: YouTube search: 'Ada Lovelace history'.",
+        "credit": ""
+      },
+      "group": "Pre-Computer Concepts"
+    },
+    {
+      "start_date": {
+        "year": "1936",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1936 – Macchine di Turing",
+        "text": "<p>Alan Turing introduce il concetto di macchina di Turing e la nozione di computabilità.</p><p><b>Curiosità:</b> La formalizzazione del concetto di calcolo è un prerequisito per qualsiasi algoritmo, incluso il machine learning.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Alan Turing portrait; diagram of a Turing machine. | Video idea: YouTube search: 'Alan Turing computable numbers'.",
+        "credit": ""
+      },
+      "group": "Theoretical Computer Science"
+    },
+    {
+      "start_date": {
+        "year": "1943",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1943 – Neurone artificiale di McCulloch & Pitts",
+        "text": "<p>Warren McCulloch e Walter Pitts propongono un modello logico-matematico di neurone artificiale.</p><p><b>Curiosità:</b> È la prima formalizzazione di un \"neurone artificiale\", da cui derivano le moderne reti neurali.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of the McCulloch-Pitts neuron model. | Video idea: YouTube search: 'McCulloch Pitts neuron'.",
+        "credit": ""
+      },
+      "group": "Early Neural Networks"
+    },
+    {
+      "start_date": {
+        "year": "1949",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1949 – Regola di apprendimento di Hebb",
+        "text": "<p>Donald Hebb pubblica 'The Organization of Behavior', proponendo la regola 'cells that fire together, wire together'.</p><p><b>Curiosità:</b> La regola di Hebb è considerata il principio base dell'apprendimento sinaptico, anticipando concetti di learning nei modelli neurali.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Neural connections strengthening illustration. | Video idea: YouTube search: 'Hebbian learning'.",
+        "credit": ""
+      },
+      "group": "Early Neural Networks"
+    },
+    {
+      "start_date": {
+        "year": "1950",
+        "month": "10",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1950 – Il test di Turing",
+        "text": "<p>Alan Turing pubblica 'Computing Machinery and Intelligence', introducendo il famoso 'Turing test'.</p><p><b>Curiosità:</b> Sebbene non sia machine learning in senso stretto, il test di Turing ha influenzato la ricerca su sistemi intelligenti e conversazionali.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of a Turing test setup. | Video idea: YouTube search: 'Turing test explained'.",
+        "credit": ""
+      },
+      "group": "Early AI & ML Ideas"
+    },
+    {
+      "start_date": {
+        "year": "1951",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1951 – SNARC di Minsky",
+        "text": "<p>Marvin Minsky costruisce SNARC, una delle prime reti neurali hardware che simula ratti in un labirinto.</p><p><b>Curiosità:</b> È un esempio precoce di hardware neurale dedicato, concetto che ritorna oggi con acceleratori specializzati.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Historical photos of SNARC or early neural hardware. | Video idea: YouTube search: 'Marvin Minsky SNARC'.",
+        "credit": ""
+      },
+      "group": "Early AI & ML Ideas"
+    },
+    {
+      "start_date": {
+        "year": "1952",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1952 – Il programma di dama di Arthur Samuel",
+        "text": "<p>Arthur Samuel sviluppa un programma che impara a giocare a dama migliorando con l'esperienza.</p><p><b>Curiosità:</b> Spesso citato come uno dei primi programmi di vera 'apprendimento automatico'.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Arthur Samuel with IBM computer; checkers board. | Video idea: YouTube search: 'Arthur Samuel checkers'.",
+        "credit": ""
+      },
+      "group": "Early Machine Learning Programs"
+    },
+    {
+      "start_date": {
+        "year": "1956",
+        "month": "6",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1956 – Conferenza di Dartmouth",
+        "text": "<p>La conferenza di Dartmouth segna la nascita formale del campo dell'Intelligenza Artificiale.</p><p><b>Curiosità:</b> Il termine 'artificial intelligence' viene coniato qui; molti partecipanti lavoreranno poi su tecniche oggi classificate come ML.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Photo of Dartmouth College; group photo of AI pioneers. | Video idea: YouTube search: 'Dartmouth workshop 1956 AI'.",
+        "credit": ""
+      },
+      "group": "Birth of AI"
+    },
+    {
+      "start_date": {
+        "year": "1957",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1957 – Perceptron di Rosenblatt",
+        "text": "<p>Frank Rosenblatt introduce il perceptron, un modello di neurone artificiale con capacità di apprendere pesi dai dati.</p><p><b>Curiosità:</b> Il perceptron ha suscitato enorme entusiasmo mediatico, venendo presentato come macchina in grado di 'vedere' e 'imparare'.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of perceptron; Mark I Perceptron hardware. | Video idea: YouTube search: 'Rosenblatt perceptron'.",
+        "credit": ""
+      },
+      "group": "Early Neural Networks"
+    },
+    {
+      "start_date": {
+        "year": "1959",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1959 – Nasce il termine 'Machine Learning'",
+        "text": "<p>Arthur Samuel conia il termine 'machine learning' riferendosi ai suoi esperimenti di dama.</p><p><b>Curiosità:</b> La famosa definizione di Samuel: 'Field of study that gives computers the ability to learn without being explicitly programmed'.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Quote card with Samuel's ML definition. | Video idea: YouTube search: 'history of the term machine learning'.",
+        "credit": ""
+      },
+      "group": "Early Machine Learning Programs"
+    },
+    {
+      "start_date": {
+        "year": "1967",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1967 – Algoritmi di Nearest Neighbor",
+        "text": "<p>Vengono sviluppati e applicati metodi di nearest neighbor per riconoscimento pattern.</p><p><b>Curiosità:</b> Il k-NN è ancora oggi un algoritmo base, semplice ma efficace in molti contesti.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Plot showing classified points and neighbors. | Video idea: YouTube search: 'k nearest neighbors algorithm'.",
+        "credit": ""
+      },
+      "group": "Classical Algorithms"
+    },
+    {
+      "start_date": {
+        "year": "1969",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1969 – Critica ai perceptron",
+        "text": "<p>Marvin Minsky e Seymour Papert pubblicano 'Perceptrons', mostrando i limiti teorici del modello.</p><p><b>Curiosità:</b> Questo lavoro contribuisce al primo 'AI winter', riducendo l'interesse verso le reti neurali per molti anni.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Cover of 'Perceptrons' book; diagram of XOR problem. | Video idea: YouTube search: 'Perceptrons Minsky Papert XOR'.",
+        "credit": ""
+      },
+      "group": "AI Winter I"
+    },
+    {
+      "start_date": {
+        "year": "1974",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1974 – Primo AI Winter",
+        "text": "<p>Tagli ai fondi e delusione sulle promesse dell'AI portano a un periodo di stagnazione.</p><p><b>Curiosità:</b> Le aspettative erano troppo alte rispetto alla capacità computazionale e agli algoritmi disponibili.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Timeline graphic showing 'AI winter' dip. | Video idea: YouTube search: 'first AI winter'.",
+        "credit": ""
+      },
+      "group": "AI Winter I"
+    },
+    {
+      "start_date": {
+        "year": "1982",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1982 – Reti di Hopfield",
+        "text": "<p>John Hopfield introduce le reti neurali ricorrenti con memoria associativa.</p><p><b>Curiosità:</b> Le Hopfield networks mostrano come reti semplici possano memorizzare pattern come stati energeticamente stabili.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Energy landscape diagrams of Hopfield networks. | Video idea: YouTube search: 'Hopfield network explained'.",
+        "credit": ""
+      },
+      "group": "Neural Revival"
+    },
+    {
+      "start_date": {
+        "year": "1986",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1986 – Backpropagation e reti multilivello",
+        "text": "<p>Rumelhart, Hinton e Williams diffondono l'uso della backpropagation per addestrare reti neurali multilivello.</p><p><b>Curiosità:</b> È considerata una rinascita delle reti neurali, anche se limitata dalle risorse computazionali dell'epoca.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of multi-layer neural network with backprop arrows. | Video idea: YouTube search: 'backpropagation neural networks'.",
+        "credit": ""
+      },
+      "group": "Neural Revival"
+    },
+    {
+      "start_date": {
+        "year": "1989",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1989 – LeCun e la lettura dei CAP",
+        "text": "<p>Yann LeCun applica reti neurali convoluzionali al riconoscimento delle cifre sui codici postali.</p><p><b>Curiosità:</b> È una delle prime applicazioni pratiche di CNN in produzione industriale.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Illustration of handwritten digit recognition example. | Video idea: YouTube search: 'Yann LeCun CNN history'.",
+        "credit": ""
+      },
+      "group": "Neural Applications"
+    },
+    {
+      "start_date": {
+        "year": "1992",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1992 – TD-Gammon",
+        "text": "<p>Gerald Tesauro sviluppa TD-Gammon, un sistema di backgammon che impara tramite reinforcement learning.</p><p><b>Curiosità:</b> È uno dei primi esempi di RL che raggiunge prestazioni di livello umano in un gioco complesso.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Backgammon board with neural network diagram. | Video idea: YouTube search: 'TD Gammon Tesauro'.",
+        "credit": ""
+      },
+      "group": "Reinforcement Learning Era"
+    },
+    {
+      "start_date": {
+        "year": "1995",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1995 – Support Vector Machines (SVM)",
+        "text": "<p>Corinna Cortes e Vladimir Vapnik introducono le Support Vector Machines.</p><p><b>Curiosità:</b> Le SVM dominano molte competizioni di classificazione prima dell'avvento del deep learning.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Plot of separating hyperplane and support vectors. | Video idea: YouTube search: 'Support Vector Machine tutorial'.",
+        "credit": ""
+      },
+      "group": "Statistical Learning & Kernels"
+    },
+    {
+      "start_date": {
+        "year": "1995",
+        "month": "6",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1995 – Random Forest (Ho)",
+        "text": "<p>Tin Kam Ho propone il metodo Random Decision Forests.</p><p><b>Curiosità:</b> Le random forest diventano un pilastro del machine learning 'classico', robuste e facili da usare.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of many decision trees forming a forest. | Video idea: YouTube search: 'random forest algorithm'.",
+        "credit": ""
+      },
+      "group": "Statistical Learning & Kernels"
+    },
+    {
+      "start_date": {
+        "year": "1997",
+        "month": "5",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1997 – Deep Blue batte Kasparov",
+        "text": "<p>Il sistema Deep Blue di IBM sconfigge il campione del mondo di scacchi Garry Kasparov.</p><p><b>Curiosità:</b> Deep Blue è più un capolavoro di ricerca esaustiva e heuristics che di machine learning moderno, ma segna una pietra miliare nella percezione pubblica dell'AI.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Photo of Kasparov vs Deep Blue. | Video idea: YouTube search: 'Deep Blue vs Kasparov 1997'.",
+        "credit": ""
+      },
+      "group": "Symbolic & Statistical AI"
+    },
+    {
+      "start_date": {
+        "year": "1998",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "1998 – MNIST e dataset per visione",
+        "text": "<p>Il dataset MNIST diventa uno standard de facto per benchmark di riconoscimento delle cifre manoscritte.</p><p><b>Curiosità:</b> Ancora oggi molti tutorial di deep learning iniziano con MNIST.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Grid of MNIST handwritten digit samples. | Video idea: YouTube search: 'MNIST dataset explained'.",
+        "credit": ""
+      },
+      "group": "Data & Benchmarks"
+    },
+    {
+      "start_date": {
+        "year": "2001",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2001 – Random Forest (Breiman)",
+        "text": "<p>Leo Breiman formalizza i Random Forest e li rende popolari nella comunità di statistica e ML.</p><p><b>Curiosità:</b> L'idea chiave: combinare molti modelli deboli per ottenere un modello forte.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Ensemble learning diagram with multiple trees voting. | Video idea: YouTube search: 'Leo Breiman random forests'.",
+        "credit": ""
+      },
+      "group": "Ensemble Methods"
+    },
+    {
+      "start_date": {
+        "year": "2006",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2006 – Deep Belief Networks",
+        "text": "<p>Geoffrey Hinton e colleghi presentano le Deep Belief Networks e rilanciano il termine 'deep learning'.</p><p><b>Curiosità:</b> Si mostra che reti profonde possono essere pre-addestrate strato per strato, aggirando alcuni problemi di ottimizzazione.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Layered deep belief network diagram. | Video idea: YouTube search: 'Geoffrey Hinton deep belief networks'.",
+        "credit": ""
+      },
+      "group": "Deep Learning Revival"
+    },
+    {
+      "start_date": {
+        "year": "2009",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2009 – Dataset ImageNet",
+        "text": "<p>Viene introdotto ImageNet, un grande dataset di immagini etichettate.</p><p><b>Curiosità:</b> ImageNet diventerà il campo di battaglia per i modelli di visione e spingerà il boom del deep learning.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Examples from ImageNet categories. | Video idea: YouTube search: 'ImageNet dataset history'.",
+        "credit": ""
+      },
+      "group": "Big Data & Vision"
+    },
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "9",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2012 – AlexNet e la vittoria a ImageNet",
+        "text": "<p>Alex Krizhevsky, Ilya Sutskever e Geoffrey Hinton presentano AlexNet, che vince la sfida ImageNet con un grande margine.</p><p><b>Curiosità:</b> È considerato lo spartiacque che rende evidente il potenziale del deep learning nella visione artificiale.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: AlexNet architecture diagram; ImageNet accuracy chart. | Video idea: YouTube search: 'AlexNet paper explained'.",
+        "credit": ""
+      },
+      "group": "Deep Learning Breakthroughs"
+    },
+    {
+      "start_date": {
+        "year": "2013",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2013 – Word2Vec",
+        "text": "<p>Tomas Mikolov e colleghi introducono Word2Vec, tecnica di embedding per rappresentare parole come vettori.</p><p><b>Curiosità:</b> I famosi esempi 'king - man + woman ≈ queen' mostrano la potenza delle rappresentazioni distribuite.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: 2D projection of word embeddings. | Video idea: YouTube search: 'Word2Vec explained'.",
+        "credit": ""
+      },
+      "group": "Representation Learning"
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2014 – Generative Adversarial Networks (GAN)",
+        "text": "<p>Ian Goodfellow e colleghi presentano le GAN, con generatore e discriminatore in competizione.</p><p><b>Curiosità:</b> Le GAN permettono di generare immagini realistiche e sono alla base di molti sistemi creativi.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of generator vs discriminator; fake vs real images. | Video idea: YouTube search: 'GANs Goodfellow tutorial'.",
+        "credit": ""
+      },
+      "group": "Generative Models"
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2015 – ResNet e reti molto profonde",
+        "text": "<p>Kaiming He e colleghi introducono le Residual Networks (ResNet) con connessioni residual.</p><p><b>Curiosità:</b> Le connessioni residual permettono di addestrare reti molto più profonde (50+ layer).</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of ResNet residual block. | Video idea: YouTube search: 'ResNet architecture'.",
+        "credit": ""
+      },
+      "group": "Deep Learning Breakthroughs"
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "3",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2016 – AlphaGo batte Lee Sedol",
+        "text": "<p>AlphaGo di DeepMind sconfigge il campione di Go Lee Sedol.</p><p><b>Curiosità:</b> Il Go era considerato un gioco troppo complesso per gli approcci tradizionali; RL + deep learning hanno cambiato le regole del gioco.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Photo of AlphaGo vs Lee Sedol; Go board. | Video idea: YouTube search: 'AlphaGo documentary'.",
+        "credit": ""
+      },
+      "group": "Reinforcement Learning & Games"
+    },
+    {
+      "start_date": {
+        "year": "2017",
+        "month": "6",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2017 – Transformer: 'Attention Is All You Need'",
+        "text": "<p>Vaswani e colleghi introducono l'architettura Transformer basata su self-attention.</p><p><b>Curiosità:</b> I Transformer diventeranno la base di BERT, GPT e molti altri modelli di linguaggio.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Diagram of Transformer encoder-decoder with attention. | Video idea: YouTube search: 'Attention Is All You Need explained'.",
+        "credit": ""
+      },
+      "group": "Transformers & Sequence Models"
+    },
+    {
+      "start_date": {
+        "year": "2018",
+        "month": "10",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2018 – BERT di Google",
+        "text": "<p>Google introduce BERT, un modello di linguaggio bidirezionale pre-addestrato su larga scala.</p><p><b>Curiosità:</b> BERT migliora drasticamente le prestazioni su molte task di NLP, diventando quickly uno standard industriale.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: BERT architecture diagram. | Video idea: YouTube search: 'BERT model explained'.",
+        "credit": ""
+      },
+      "group": "Pretrained Language Models"
+    },
+    {
+      "start_date": {
+        "year": "2020",
+        "month": "6",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2020 – GPT-3",
+        "text": "<p>OpenAI presenta GPT-3, un modello di linguaggio con 175 miliardi di parametri.</p><p><b>Curiosità:</b> Dimostra capacità sorprendenti di few-shot learning e generazione di testo coerente.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Conceptual graphic of a large neural network; GPT-3 logo style art. | Video idea: YouTube search: 'GPT-3 demo'.",
+        "credit": ""
+      },
+      "group": "Foundation Models & Generative AI"
+    },
+    {
+      "start_date": {
+        "year": "2021",
+        "month": "7",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2021 – AlphaFold 2",
+        "text": "<p>DeepMind annuncia risultati rivoluzionari nella predizione della struttura 3D delle proteine con AlphaFold 2.</p><p><b>Curiosità:</b> È considerato uno dei più grandi successi dell'AI applicata alla biologia strutturale.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Protein structure images predicted by AlphaFold. | Video idea: YouTube search: 'AlphaFold 2 explained'.",
+        "credit": ""
+      },
+      "group": "ML in Science"
+    },
+    {
+      "start_date": {
+        "year": "2022",
+        "month": "8",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2022 – Stable Diffusion e modelli di diffusione",
+        "text": "<p>I modelli di diffusione come Stable Diffusion e DALL·E 2 diventano popolari per la generazione di immagini.</p><p><b>Curiosità:</b> Permettono a chiunque di generare immagini fotorealistiche da semplici prompt testuali.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Grid of AI-generated artworks. | Video idea: YouTube search: 'Stable Diffusion tutorial'.",
+        "credit": ""
+      },
+      "group": "Diffusion Models & Generative Art"
+    },
+    {
+      "start_date": {
+        "year": "2022",
+        "month": "11",
+        "day": "1"
+      },
+      "text": {
+        "headline": "2022 – ChatGPT",
+        "text": "<p>OpenAI rilascia ChatGPT, basato su modelli GPT ottimizzati per la conversazione.</p><p><b>Curiosità:</b> Segna un momento di mass adoption del generative AI presso il grande pubblico.</p>"
+      },
+      "media": {
+        "url": "",
+        "caption": "Image idea: Chat interface concept with AI assistant. | Video idea: YouTube search: 'What is ChatGPT'.",
+        "credit": ""
+      },
+      "group": "Conversational AI"
+    }
+  ]
+}
